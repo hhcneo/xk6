@@ -7,9 +7,9 @@ package neo
 import (
 	"os"
 
-	"github.com/szkiba/xk6-g0/g0/addon"
-	"github.com/szkiba/xk6-g0/internal/builtin/testify/assertions"
-	"github.com/szkiba/xk6-g0/internal/builtin/testify/requirements"
+	"github.com/hhcneo/xk6/g0/addon"
+	"github.com/hhcneo/xk6/internal/builtin/testify/assertions"
+	"github.com/hhcneo/xk6/internal/builtin/testify/requirements"
 	"github.com/traefik/yaegi/interp"
 	"go.k6.io/k6/js/common"
 	"go.k6.io/k6/js/modules"

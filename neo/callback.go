@@ -13,8 +13,8 @@ import (
 	"context"
 	"reflect"
 
-	"github.com/szkiba/xk6-g0/internal/builtin/testify/assertions"
-	"github.com/szkiba/xk6-g0/internal/builtin/testify/requirements"
+	"github.com/hhcneo/xk6/internal/builtin/testify/assertions"
+	"github.com/hhcneo/xk6/internal/builtin/testify/requirements"
 )
 
 type SetupFunc func(context.Context, *assertions.Assertions, *requirements.Assertions) (interface{}, error)

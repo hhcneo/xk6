@@ -1,7 +1,3 @@
-// SPDX-FileCopyrightText: 2023 Iván Szkiba
-//
-// SPDX-License-Identifier: MIT
-
 package neo
 
 import (
@@ -12,9 +8,9 @@ import (
 	"github.com/hhcneo/xk6/internal/builtin/jsonschema"
 	"github.com/hhcneo/xk6/internal/builtin/logrus"
 	"github.com/hhcneo/xk6/internal/builtin/resty"
+	"github.com/hhcneo/xk6/internal/builtin/sproto_sprotodefine"
 	"github.com/hhcneo/xk6/internal/builtin/stdlib"
 	"github.com/hhcneo/xk6/internal/builtin/testify"
-	"github.com/hhcneo/xk6/internal/builtin/sproto_sprotodefine"
 	"go.k6.io/k6/js/modules"
 )
 

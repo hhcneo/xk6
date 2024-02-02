@@ -178,12 +178,8 @@ github.com/grpc-ecosystem/grpc-gateway/v2 v2.16.0 h1:YBftPWNWd4WwGqtY2yeZL2ef8rH
 github.com/grpc-ecosystem/grpc-gateway/v2 v2.16.0/go.mod h1:YN5jB8ie0yfIUg6VvR9Kz84aCaG7AsGZnLjhHbUqwPg=
 github.com/hashicorp/golang-lru v0.5.0/go.mod h1:/m3WP610KZHVQ1SGc6re/UDhFvYD7pJ4Ao+sR/qLZy8=
 github.com/hashicorp/golang-lru v0.5.1/go.mod h1:/m3WP610KZHVQ1SGc6re/UDhFvYD7pJ4Ao+sR/qLZy8=
-github.com/hhcneo/prosoccers v0.1.0 h1:d+V6IA6DtCG+r+ZoNt3elQ8owSCwH6SQ9B7Ur5sbgTY=
-github.com/hhcneo/prosoccers v0.1.0/go.mod h1:vbhfX2iVEBtL+QQhz7hgFRRVRth6cdlpgHX0nZ9mCoc=
 github.com/hhcneo/sproto_sprotodefine v0.0.0-20240202101933-0a0dd8908189 h1:CE8WEifKtj7FikHQX60mVYJ5akJKU7Cmf+Nyp9tzvLc=
 github.com/hhcneo/sproto_sprotodefine v0.0.0-20240202101933-0a0dd8908189/go.mod h1:Xg4h3ILwZRVXjk5vPaFLOxrx0ABmRxBK30BK6Vrewcc=
-github.com/hhcneo/sproto_sprotodefines v0.1.0 h1:5NuAaHBbtq9vUbDmFAkf1Stju6TLsLy89KEM9NAun70=
-github.com/hhcneo/sproto_sprotodefines v0.1.0/go.mod h1:vDgyalYuo+ZqsW0EaIs0wOLS5yhHuKZcphYZbhmAnGU=
 github.com/ianlancetaylor/demangle v0.0.0-20181102032728-5e5cf60278f6/go.mod h1:aSSvb/t6k1mPoxDqO4vJh6VOCGPwU4O0C2/Eqndh1Sc=
 github.com/ianlancetaylor/demangle v0.0.0-20200824232613-28f6c0f3b639/go.mod h1:aSSvb/t6k1mPoxDqO4vJh6VOCGPwU4O0C2/Eqndh1Sc=
 github.com/ianlancetaylor/demangle v0.0.0-20220319035150-800ac71e25c2/go.mod h1:aYm2/VgdVmcIU8iMfdMvDMsRAQjcfZSKFby6HOFvi/w=
@@ -252,6 +248,8 @@ github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcU
 github.com/stretchr/testify v1.8.4/go.mod h1:sz/lmYIOXD/1dqDmKjjqLyZ2RngseejIcXlSw2iwfAo=
 github.com/stretchr/testify/_codegen v0.0.0-20230530093840-f97607b89807 h1:G+OU3/Tx9zLCX9gVsEMFvDhWgruq+89YJ0GhjMqaF9U=
 github.com/stretchr/testify/_codegen v0.0.0-20230530093840-f97607b89807/go.mod h1:DdemnDXKdn7HC6syua1pqWFZAXub54YSdJ01tIbbBEI=
+github.com/szkiba/xk6-g0 v0.1.5 h1:GCdxFlaqX9TqG1ljnfjdpK0PMrx8l/glJynZhf4dgq4=
+github.com/szkiba/xk6-g0 v0.1.5/go.mod h1:GqQJeGomd9rTuGuP38KOEyvwiiFq47tCr4xd8fWQT+s=
 github.com/tidwall/gjson v1.17.0 h1:/Jocvlh98kcTfpN2+JzGQWQcqrPQwDrVEMApx/M5ZwM=
 github.com/tidwall/gjson v1.17.0/go.mod h1:/wbyibRr2FHMks5tjHJ5F8dMZh3AcwJEMf5vlfC0lxk=
 github.com/tidwall/match v1.1.1 h1:+Ho715JplO36QYgwN9PGYNhgZvoUSc9X2c80KVTi+GA=

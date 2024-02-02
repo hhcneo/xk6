@@ -9,8 +9,7 @@ require (
 	github.com/brianvoe/gofakeit/v6 v6.22.0
 	github.com/dop251/goja v0.0.0-20231027120936-b396bb4c349d
 	github.com/go-resty/resty/v2 v2.7.0
-	github.com/hhcneo/prosoccers v0.1.0
-	github.com/hhcneo/sproto_sprotodefines v0.1.0
+	github.com/hhcneo/sproto_sprotodefine v0.0.0-20240202101933-0a0dd8908189
 	github.com/imdario/mergo v0.3.16
 	github.com/santhosh-tekuri/jsonschema/v5 v5.3.0
 	github.com/sirupsen/logrus v1.9.3
@@ -27,8 +26,8 @@ require (
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.16.0 // indirect
-	github.com/hhcneo/sproto_sprotodefine v0.0.0-20240202101933-0a0dd8908189 // indirect
 	github.com/nxadm/tail v1.4.8 // indirect
+	github.com/onsi/gomega v1.31.1 // indirect
 	github.com/xjdrew/gosproto v0.1.0 // indirect
 	go.opentelemetry.io/otel v1.21.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.21.0 // indirect

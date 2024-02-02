@@ -4,6 +4,6 @@
 
 //go:build tools
 
-package g0
+package neo
 
 import _ "github.com/stretchr/testify/_codegen"

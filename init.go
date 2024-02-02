@@ -2,12 +2,12 @@
 //
 // SPDX-License-Identifier: MIT
 
-package g0
+package neo
 
 import (
-	"github.com/szkiba/xk6-g0/g0"
+	"github.com/hhcneo/xk6"
 )
 
 func init() { //nolint:gochecknoinits
-	g0.Bootstrap()
+	neo.Bootstrap()
 }
